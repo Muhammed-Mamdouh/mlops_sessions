@@ -1,5 +1,7 @@
-def sum_xy(x, y):
-    return x+y
+"""hello"""
+def sum_xy(value_1, value_2):
+    """docstring"""
+    return value_1 + value_2
 
 
 if __name__=="__main__":
