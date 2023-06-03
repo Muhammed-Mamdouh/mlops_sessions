@@ -6,3 +6,4 @@ lint:
 
 test:
 	python -m pytest -vv test_hello.py
+	python -m pytest -vv test_app.py
