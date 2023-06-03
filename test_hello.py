@@ -1,4 +1,4 @@
-from HelloWorld import sum_xy
+from hello import sum_xy
 
 
 def test_sum_xy():
