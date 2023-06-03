@@ -1,4 +1,5 @@
 """hello"""
+from app import app
 
 
 def sum_xy(value_1, value_2):
